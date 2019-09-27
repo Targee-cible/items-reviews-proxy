@@ -61,3 +61,6 @@ config/aws-keys.json
 
 # next.js build output
 .next
+
+# public Loader.io text files
+/public/*txt
